@@ -1,0 +1,7 @@
+{
+  "name": "barcodeScan",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
